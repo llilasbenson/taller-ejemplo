@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-03-17T17:07:30.277Z",
+  "created_by": "llilasbenson",
+  "title": "sample",
+  "slug": "sample",
+  "updated_at": "2026-03-17T17:07:30.277Z",
+  "updated_by": "llilasbenson",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "dd090b5f-8351-4457-af56-3e85485f34de"
+  }
+}
