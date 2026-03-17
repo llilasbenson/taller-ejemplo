@@ -26,6 +26,30 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Sample text"
+        }
+      ]
+    },
+    {
+      "uuid": "3a562731-5255-4a7a-8ced-728ebe0361f3",
+      "includes": [
+        "annotations",
+        "label",
+        "description"
+      ],
+      "end": 30,
+      "file": "0c310d4c-d9dd-4f60-9846-6383fd9ed690",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +59,7 @@
   "created_by": "llilasbenson",
   "title": "Responsabilidad Mediata",
   "slug": "responsabilidad-mediata",
-  "updated_at": "2026-03-17T16:54:50.657Z",
+  "updated_at": "2026-03-17T16:57:00.993Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
